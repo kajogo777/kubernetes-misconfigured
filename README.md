@@ -144,7 +144,7 @@ Users allowed to exec into all containers|||||✅
 Deploying user pods in `kube-system` namespace||||||✅
 
 
-# Defects Compiled by resource type
+# Misconfigurations grouped by resource type
 
 Endpoint/EndpointSlice
 + Endpoint/EndpointSlice contains loopback address (localhost or link-local) -> RD
